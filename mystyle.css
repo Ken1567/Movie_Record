@@ -1,0 +1,47 @@
+h4 {
+    color: rgb(109, 106, 106);
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+table, td {
+    text-align: left;
+    border-collapse: collapse;
+    background-color: rgb(48, 45, 45);
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background: rgb(39, 36, 36); 
+    color:antiquewhite;
+}
+
+td {
+    width: 300;
+    height: 100;
+}
+
+h2, h4 {
+    margin: 0;
+}
+
+.right {
+    color: rgb(109, 106, 106);
+    text-align: center;
+    width: 5px;
+}
+
+table {
+    width: 470;
+}
+
+.left {
+    padding: 10px;
+}
